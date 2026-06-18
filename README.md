@@ -101,7 +101,7 @@ Servers will start on:
 
 ### Manual Setup
 
-If you prefer manual setup, see [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed instructions.
+If you prefer manual setup, see [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed instructions
 
 ---
 │       └── rag-server/            # ChromaDB RAG Server
